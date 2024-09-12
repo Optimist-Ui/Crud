@@ -1,11 +1,11 @@
 import React from "react";
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import About from "./pages/About";
-import Home from "./pages/Home";
-import Contact from "./pages/Contact";
-import NavBar from "./pages/NavBar";
-import PageNotFound from "./pages/PageNotFound";
-import Form from "../components/Form";
+// import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+// import About from "./pages/About";
+// import Home from "./pages/Home";
+// import Contact from "./pages/Contact";
+// import NavBar from "./pages/NavBar";
+// import PageNotFound from "./pages/PageNotFound";
+// import Form from "../components/Form";
 import Main from "../components/main";
 
 const App = () => {
