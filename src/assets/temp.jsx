@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div className="bg-[#21303f] border-2 border-[#21303f]">
       <h1 className="text-center  font-bold lg:font-extrabold break-words text-5xl text-white pt-20">
-        This is Basic a Crud Operation in React !
+        This is a Basic Crud Operation in React !
       </h1>
       <Main />
       {/* <Form /> */}
