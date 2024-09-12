@@ -6,7 +6,7 @@ import React from "react";
 // import NavBar from "./pages/NavBar";
 // import PageNotFound from "./pages/PageNotFound";
 // import Form from "../components/Form";
-import Main from "../components/main";
+import Main from "../components/home";
 
 const App = () => {
   return (
